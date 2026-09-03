@@ -1,8 +1,0 @@
-.env
-__pycache__/
-*.pyc
-.venv/
-venv/
-report.md
-*.json
-!.env.example
